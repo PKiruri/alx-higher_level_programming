@@ -1,1 +1,1 @@
-Th
+SELECT * FROM `first_table`;
