@@ -1,1 +1,1 @@
-Th
+SHOW TABLES;
