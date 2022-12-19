@@ -1,3 +1,6 @@
+-- Creates a table second_table in the current database and add multiples
+-- rows, do nothing if the second_table table already exists.
+
 CREATE TABLE IF NOT EXISTS `second_table` (
 	`id` INT,
 	`name` VARCHAR(256),
